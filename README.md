@@ -21,7 +21,7 @@ Technologies often used at Bytecode
 * Rust, low-level language capable of replacing C in most fields
 * Elm, strictly functional front-end web language
 * Python, high-level scripting language that reads like pseudo code
-* PHP, the language we aim to avoid when possible
+* PHP, most populair but often very WET
 * HTML/CSS, the code that makes websites look pretty
 
 ### Frameworks
@@ -41,15 +41,15 @@ Technologies often used at Bytecode
 
 ### Tools
 
-* GitBook, create documentation sites from from Markdown files
-* Docusaurus, create documentation sites from from Markdown files
-* NextCloud, GSuite/Office365, but free and open-source
+* GitBook, create documentation sites from Markdown files
+* Docusaurus, create documentation sites from Markdown files
+* NextCloud, GSuite/Office365, but FOSS
 * CodiMD, a free/open-source version of the popular HackMD
-* Sitespeed.io, like GTMetrix Pro, but free/open-source software
+* Sitespeed.io, like GTMetrix Pro, but FOSS
 
 ### CI/CD and DevOps
 
-* GitLab, all-in-one free and open-source CI/CD solution
+* GitLab, all-in-one FOSS CI/CD solution
 * DigitalOcean, cloud provider without headaches
 * Ansible, keeps all your servers in sync without manual work
 * Terraform, create your digital infrastructure by declaring it in code
@@ -59,6 +59,7 @@ Technologies often used at Bytecode
 ### Databases and caching
 
 * PostgreSQL, our relational-database of choice
+* MySQL, populair alternative to PostgreSQL
 * Redis, key-value in-memory database, great for caching
 * Varnish, HTTP accelerator for content-heavy dynamic web sites and APIs
 
@@ -100,9 +101,9 @@ Education resources we can highly recommended
 
 ### Interesting articles
 
-* The Clean Architecture, a small essay about clean software architecture
-* The cost of 9$/hour developers, the reason behind the Boeing 737-8 debacle
-* Getting started with Deno, by the creator of NodeJS
+* [The Clean Architecture, a small essay about clean software architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [The cost of 9$/hour developers, the reason behind the Boeing 737-8 debacle](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
+* [Getting started with Deno, by the creator of NodeJS](https://dev.to/wuz/getting-started-with-deno-e1m)
 
 ## Projects
 
@@ -115,9 +116,9 @@ Projects we consider to be awesome
 
 ### Interal projects
 
-* Ping Pong app, keeping track of ping pong scores within a team
+* Ping Pong app, keeping track of ping pong scores within a team (coming soon ™)
 * Bytecode Website, we put money where our mouth is, so our website is AGPL-3.0 licenced
-* Coding Standards, the Bytecode coding standards we follow
+* Bytecode Coding Standards, the Bytecode coding standards we follow
 * Bytecode's CodiMD fork, to create easy documents/presentations in Bytecode branding
 
 ### Free software (free as in freedom)
