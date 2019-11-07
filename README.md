@@ -1,5 +1,6 @@
 # Awesome Bytecode [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+_Work in progress!_
 
 > Awesome projects, technologies and resources related to Bytecode Digital Agency
 
