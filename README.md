@@ -152,12 +152,15 @@ All of the things we really love but don't fit into the categories mentioned abo
 
 The awesome people @ Bytecode (btw. [we're hiring](mailto:info@bytecode.nl)!)
 
-* **Jeroen van Steijn**, Full-stack engineer: [Website](https://jeroenvansteijn.nl/)
-* **Luciano Nooijen**, Software architect: [Website](https://lucianonooijen.nl)
-* **Nick Broekarts**, Online marketeer: [LinkedIn](#)
-* **Julian van Dijk**, Full-stack developer: [LinkedIn](#)
-* **Thomas Bodlaender**, Account manager: [LinkedIn](#)
-* **Richard van 't Hof**, Front-end developer: [LinkedIn](#)
+* **Luciano Nooijen**, Co-founder and technical lead: [Website](https://lucianonooijen.nl/)
+* **Jeroen van Steijn**, Co-founder and ooperations manager: [Website](https://jeroenvansteijn.nl/)
+* **Nick Broekarts**, Partner and business developer: [LinkedIn](https://www.linkedin.com/in/nickbroekarts/)
+* **Julian van Dijk**, Full-stack developer: [LinkedIn](https://www.linkedin.com/in/julian-v-66b098116/)
+* **Chris Färber**, Designer and front-end developer: [LinkedIn](https://www.linkedin.com/in/christiaanfarber/)
+* **Richard van 't Hof**, Designer and front-end developer: [LinkedIn](https://www.linkedin.com/in/richard-van-t-hof/)
+* **Thomas Bodlaender**, Account manager and marketeer: [LinkedIn](https://www.linkedin.com/in/thomasbodlaender/)
+* **Suzanne de Vries**: Online marketeer: [LinkedIn](https://www.linkedin.com/in/suzanne-de-vries-11b088149/)
+* **Robin van Zeelst**, Online marketeer: [LinkedIn](https://www.linkedin.com/in/robin-van-zeelst/)
 
 ## Contact
 
