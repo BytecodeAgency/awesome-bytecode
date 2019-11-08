@@ -8,18 +8,18 @@
 
 ## Programming technologies
 
-Technologies often used at Bytecode
+_Technologies we love to use at Bytecode_
 
 ### Languages
 
 * Javascript and NodeJS, "the language of the web"
-* Typescript, superset of Javascript more suitable for enterprises
-* Deno, TS runtime that has great potential
+* Typescript,typed superset of Javascript more suitable for enterprises
+* Deno, TS runtime that has great potential (it's like NodeJS but better and with Typescript)
+* GoLang, open source programming language that makes it easy to build simple, reliable, and efficient software
 * Elixir, functional programming language built on top of Erlang
-* Rust, low-level language capable of replacing C in most fields
+* Rust, low-level language capable of replacing C in many fields
 * Elm, strictly functional front-end web language
 * Python, high-level scripting language that reads like pseudo code
-* PHP, most populair but often very WET
 * HTML/CSS, the code that makes websites look pretty
 
 ### Frameworks
@@ -29,6 +29,7 @@ Technologies often used at Bytecode
 * Expo, framework that takes a way most of the React-Native headaches
 * Phoenix, high-performing web framework for Elixir applications
 * Rocket.rs, web framework for Rust
+* Gin and Echo, web frameworks for Go
 
 ### Libraries
 
@@ -39,7 +40,7 @@ Technologies often used at Bytecode
 
 ### Tools
 
-* GitBook, create documentation sites from Markdown files
+* Rocket.chat, a FOSS alternative to Slack
 * Docusaurus, create documentation sites from Markdown files
 * NextCloud, GSuite/Office365, but FOSS
 * CodiMD, a free/open-source version of the popular HackMD
@@ -57,7 +58,6 @@ Technologies often used at Bytecode
 ### Databases and caching
 
 * PostgreSQL, our relational-database of choice
-* MySQL, populair alternative to PostgreSQL
 * Redis, key-value in-memory database, great for caching
 * Varnish, HTTP accelerator for content-heavy dynamic web sites and APIs
 
@@ -132,13 +132,17 @@ Projects we consider to be awesome
 
 Awesome lists that we consider to be Awesome
 
+* GitHub Awesome Topic, where you can find awesome awesome resources
 * CS courses, publicly available Computer Science courses
 * Self-hosted, awesome self-hosted software
+* Site Reliability Engineering, what you get when you let software engineers do sysadmin work
+* DevSecOps, integrating security into development and operations
 
 ## Misc
 
 All of the things we really love but don't fit into the categories mentioned above
 
+* The Changelog Podcast, several programming and start-up related podcasts
 * AreWeWebYet, keeping track of the progression on web frameworks for Rust
 * AreWeAsyncYet, keeping track of the progression on async functionality for Rust
 * HTTPCats, a cat for each HTTP code
