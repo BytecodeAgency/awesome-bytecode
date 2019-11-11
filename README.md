@@ -4,9 +4,33 @@
 
 _Note: None of the links are affiliate links_
 
-## Contents
+## Table of Contents
 
-[TOC]
+* [Programming technologies](#programming-technologies)
+    * [Languages](#languages)
+    * [Frameworks](#frameworks)
+    * [Libraries](#libraries)
+    * [Tools](#tools)
+    * [CI/CD and DevOps](#cicd-and-devops)
+    * [Databases and caching](#databases-and-caching)
+    * [Methodologies](#methodologies)
+* [Design/image resources](#designimage-resources)
+* [Education](#education)
+    * [General learning resources](#general-learning-resources)
+    * [Programming related learing resources](#programming-related-learing-resources)
+    * [Interesting articles](#interesting-articles)
+* [Projects](#projects)
+    * [Bytecode Clients](#bytecode-clients)
+    * [Interal projects](#interal-projects)
+    * [Free software (free as in freedom)](#free-software-free-as-in-freedom)
+* [Awesome Awesome](#awesome-awesome)
+* [Misc](#misc)
+* [Awesome people](#awesome-people)
+* [Contact](#contact)
+* [Contribute](#contribute)
+* [License](#license)
+
+_TOC generated with [markdown-toc](https://github.com/jonschlinkert/markdown-toc)_
 
 ## Programming technologies
 
