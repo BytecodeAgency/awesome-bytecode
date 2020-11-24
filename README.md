@@ -38,37 +38,30 @@ _Technologies we love to use at Bytecode_
 
 ### Languages
 
-* [Javascript/NodeJS](https://github.com/nodejs/node), "the language of the web"
 * [Typescript](https://github.com/microsoft/TypeScript), typed superset of Javascript more suitable for enterprises
 * [Deno](https://github.com/denoland/deno), TS runtime that has great potential (it's like NodeJS but better and with Typescript)
 * [GoLang](https://github.com/golang/go), open source programming language that makes it easy to build simple, reliable, and efficient software
-* [Elixir](https://github.com/elixir-lang/elixir), functional programming language built on top of Erlang/OTP
 * [Rust](https://github.com/rust-lang/rust), low-level language capable of replacing C in many fields
 * [Elm](https://github.com/elm/compiler), functional front-end web programming language
-* [Python](https://www.python.org), high-level scripting language that reads like pseudo code
 
 ### Frameworks
 
 * [ReactJS](https://github.com/facebook/react), very popular front-end framework
 * [React-Native](https://github.com/facebook/react-native), way of creating native mobile apps with React code
 * [Expo](https://github.com/expo/expo), framework that takes a way most of the React-Native headaches
-* [Phoenix](https://github.com/phoenixframework/phoenix), high-performing web framework for Elixir applications
 * [Rocket.rs](https://github.com/SergioBenitez/Rocket), web framework for Rust
-* [Gin](https://github.com/gin-gonic/gin) and [Echo](https://github.com/labstack/echo), minimalist web frameworks for Go
+* [Gin](https://github.com/gin-gonic/gin) minimalist web framework for Go
 
 ### Libraries
 
 * [Redux](https://github.com/reduxjs/redux), "functional" state management, mostly for ReactJS
-* [GatsbyJS](https://github.com/gatsbyjs/gatsby), static site builder built in Javascript
-* [Jest](https://github.com/facebook/jest), all-in-one testing library for Javascript/Typescript
 * [Lottie](https://github.com/airbnb/lottie-web), makes it possible to use After Effects animations in React (JS/Native)
+* [Aegis](https://github.com/lucianonooijen/aegis), runtime JSON type checks based on Typescript interfaces
 
 ### Tools
 
 * [Docusaurus](https://github.com/facebook/docusaurus), create documentation sites from Markdown files
-* [NextCloud](https://github.com/nextcloud/server), GSuite/Office365, but FOSS
 * [CodiMD](https://github.com/hackmdio/codimd), a free/open-source version of the popular HackMD
-* [Sitespeed.io](https://github.com/sitespeedio/sitespeed.io), like GTMetrix Pro, but FOSS
 
 ### CI/CD and DevOps
 
@@ -110,13 +103,14 @@ _Education resources we can highly recommended_
 
 ### General learning resources
 
-* [PluralSight](https://www.pluralsight.com/), great courses on a variety of topics
-* [Udemy](https://www.udemy.com/), great courses for beginners on many topics
 * [KhanAcademy](https://www.khanacademy.org/), awesome free courses on many different topics
 * [O'Reilly Learning](https://learning.oreilly.com/home/), learning resources from O'Reilly on a subscription basis
+* [PluralSight](https://www.pluralsight.com/), great courses on a variety of topics
+* [Udemy](https://www.udemy.com/), great courses for beginners on many topics
 
 ### Programming related learing resources
 
+* [Teach Yourself CS](https://teachyourselfcs.com/), a roadmap for self-taught software engineers
 * [CodeWars](https://www.codewars.com/), great gamified way to learn algorithms
 * [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code), like the Rosetta Stone, but with code
 * [RealWorld](https://github.com/gothinkster/realworld), Medium.com clones in several languages/frameworks
@@ -136,11 +130,6 @@ _Education resources we can highly recommended_
 
 _Projects we consider to be awesome_
 
-### Bytecode Clients
-
-* [MooiWerk Breda](https://mooiwerkbreda.nl/vacatures/), custom platform built for connection voluneers and non-profits
-* [côte&ciel](https://www.coteetciel.com/), webshop focussed on selling high-end designer bags
-
 ### Interal projects
 
 * [Bytecode Website](https://github.com/BytecodeAgency/Bytecode-Website), we put money where our mouth is, so our website is AGPL-3.0 licenced
@@ -154,7 +143,6 @@ _Projects we consider to be awesome_
 * [FSF](https://www.fsf.org/), the Free Software Foundation
 * [GNU](https://www.gnu.org/), it's GNU/Linux!
 * [Suckless.org](https://suckless.org/), minimalist Linux tools
-* [Rocket.chat](https://github.com/RocketChat/Rocket.Chat), a FOSS alternative to Slack
 * [Wire](https://github.com/wireapp/wire), fully encrypted private messaging and calling
 * [Signal](https://github.com/signalapp), fully encrypted private messaging and calling
 
@@ -182,7 +170,7 @@ _All of the things we really love but don't fit into the categories mentioned ab
 The awesome people @ Bytecode (btw. [we're hiring](mailto:info@bytecode.nl)!)
 
 * **Luciano Nooijen**, Co-founder and technical lead: [Website](https://lucianonooijen.nl/)
-* **Jeroen van Steijn**, Co-founder and ooperations manager: [Website](https://jeroenvansteijn.nl/)
+* **Jeroen van Steijn**, Co-founder and operations manager: [Website](https://jeroenvansteijn.nl/)
 * **Nick Broekarts**, Partner and business developer: [LinkedIn](https://www.linkedin.com/in/nickbroekarts/)
 * **Julian van Dijk**, Full-stack developer: [LinkedIn](https://www.linkedin.com/in/julian-v-66b098116/)
 * **Chris Färber**, Designer and front-end developer: [LinkedIn](https://www.linkedin.com/in/christiaanfarber/)
@@ -190,6 +178,8 @@ The awesome people @ Bytecode (btw. [we're hiring](mailto:info@bytecode.nl)!)
 * **Thomas Bodlaender**, Account manager and marketeer: [LinkedIn](https://www.linkedin.com/in/thomasbodlaender/)
 * **Suzanne de Vries**: Online marketeer: [LinkedIn](https://www.linkedin.com/in/suzanne-de-vries-11b088149/)
 * **Robin van Zeelst**, Online marketeer: [LinkedIn](https://www.linkedin.com/in/robin-van-zeelst/)
+* **Nahwin Chedoe**, UX/UI designer: [LinkedIn](https://www.linkedin.com/in/nahwin-chedoe-a706baa7/)
+* **T'iko Alarcon Rivero**, Front-end developer: [LinkedIn](https://www.linkedin.com/in/tiko-alarcon-rivero-6722bb18a/)
 
 ## Contact
 
